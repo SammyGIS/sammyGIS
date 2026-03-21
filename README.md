@@ -7,7 +7,7 @@
 * 💻 I’m currently working on Geospatial Data Engineering Projects
 * 👨🏻‍🏫 I’m currently learning: Cloud Computing and Data Engineering
 *  💬 Ask me about anything geospatial; ESRI Tools, Modern GIS Stack, Open Source GIS, Geospatial Data Science, Spatial Statistics, Location Intelligence
-*  💼 Job interests: Geospatial Data Engineer/Data Scientist (Intern or Junior level).
+*  💼 Job interests: Geospatial Data Engineer/Data Scientist.
 *  📫 How to reach me via my [Email](adeedoyinsamuel25@gmail.com)
 
 <br>
